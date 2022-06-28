@@ -1,2 +1,2 @@
 # Stopwatch
-First C++ project to learn the basics of the language
+This is a very basic C++ project that I'll be using as an introduction to the language for myself
