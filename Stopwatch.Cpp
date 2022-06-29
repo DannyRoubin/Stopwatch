@@ -22,10 +22,13 @@ int main() {
 
 
     while (true) {
-        Sleep(1);
+
+        Sleep(1000);
+
+
         sec++;
 
-        cout << sec << endl;
+        
 
         if (sec > 59) {
             min++;
